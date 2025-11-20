@@ -1,5 +1,5 @@
-id_venta   producto   cantidad   fecha
-101        Smartphone 15         2025-11-10
-102        Tablet     30         2025-11-11
-103        Mouse      45         2025-11-12
-104        Auriculares 20        2025-11-13
+id_venta,producto,cantidad,fecha,
+101,Smartphone,15,2025-11-10,
+102,Tablet,30,2025-11-11,
+103,Mouse,45,2025-11-12,
+104,Auriculares,20,2025-11-13,
