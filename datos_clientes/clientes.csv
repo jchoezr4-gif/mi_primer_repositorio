@@ -1,7 +1,8 @@
++------------+---------------+-------------+---------------------+
 | id_cliente | nombre        | ciudad      | email               |
-|------------|---------------|-------------|---------------------|
++------------+---------------+-------------+---------------------+
 | C001       | Luis Medina   | Quito       | lmedina@hotmail.com |
 | C002       | Karla Torres  | Guayaquil   | ktorres23@gmail.com |
 | C003       | Diego Santos  | Cuenca      | dsantos@outlook.com |
 | C004       | Rosa Chávez   | Portoviejo  | rosach@gmail.com    |
-
++------------+---------------+-------------+---------------------+
